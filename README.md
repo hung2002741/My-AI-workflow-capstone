@@ -3,6 +3,9 @@ Capstones for coursera
 
 ## Graphs
 ![Daily revenue from 2017 to 2019](figures/daily_revenue_from_2017_to_2019.png)
+![model_comparison.png](figures/model_comparison.png)
+![revenue_by_country.png](figures/revenue_by_country.png)
+![total_revenue_time.png](figures/total_revenue_time.png)
 
 ## Build and run docker:
 ![image](https://github.com/user-attachments/assets/97981daa-c773-45ae-ba3d-de55dd7e37dc)
