@@ -1,6 +1,9 @@
 # AI-workflow-capstone
 Capstones for coursera
 
+## Graphs
+![Daily revenue from 2017 to 2019](figures/daily_revenue_from_2017_to_2019.png)
+
 ## Build and run docker:
 ![image](https://github.com/user-attachments/assets/97981daa-c773-45ae-ba3d-de55dd7e37dc)
 ## Test API:
